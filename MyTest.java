@@ -4,6 +4,6 @@ public class MyTest {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Œ“¥Ú”°¡ÀAAAA");
+		System.out.println("666666666666666666666666666666666666666");
 	}
 }
